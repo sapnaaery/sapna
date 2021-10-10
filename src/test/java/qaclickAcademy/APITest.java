@@ -9,7 +9,15 @@ public class APITest {
 		System.out.println("postJIra");
 		System.out.println("postJIra2");
 		System.out.println("postJIra3");
-	
+		
+		System.out.println("postJIra4");
+		
+		System.out.println("postJIra5");
+		
+		System.out.println("postJIra6");
+		
+		System.out.println("postJIra7");
+		
 	}
    
 	@Test

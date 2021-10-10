@@ -27,4 +27,11 @@ public class APITest {
 
 		
 	}
+	@Test
+	public void deleteTwitter2()
+	{
+		System.out.println("deleteTwitter12");
+
+		
+	}
 }
